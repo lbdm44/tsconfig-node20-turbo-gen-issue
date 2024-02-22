@@ -4,5 +4,8 @@
   "volta": {
     "node": "20.11.1",
     "yarn": "4.1.0"
+  },
+  "devDependencies": {
+    "@turbo/gen": "^1.12.4"
   }
 }
