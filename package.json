@@ -6,6 +6,7 @@
     "yarn": "4.1.0"
   },
   "devDependencies": {
-    "@turbo/gen": "^1.12.4"
+    "@turbo/gen": "^1.12.4",
+    "turbo": "^1.12.4"
   }
 }
